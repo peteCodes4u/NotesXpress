@@ -4,7 +4,8 @@
   "description": "This application has been developed for dynamic note taking leveraging Express.js and node.js.",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js",
+    "test": "jest"
   },
   "author": "Peter Smith (peteCodes4u)",
   "license": "MIT",
